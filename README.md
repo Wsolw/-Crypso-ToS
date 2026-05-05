@@ -1,6 +1,9 @@
-# Crypso
+# Crypso Legal
 
-Crypso is a crypto utility bot that offers real-time prices, market insights, and helpful tools.
+Official legal documents for Crypso Discord bot.
 
-## Legal
-- [Terms of Service](./Tos)
+## Documents
+- [Terms of Service](./TERMS_OF_SERVICE.md)
+- [Privacy Policy](./PRIVACY_POLICY.md)
+
+Crypso is a crypto tipping bot for Discord allowing deposits, withdrawals, and user tipping.
