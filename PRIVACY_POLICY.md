@@ -12,6 +12,7 @@ When using Crypso, we may collect and store:
 - Discord User ID
 - Username / Display Name
 - Server ID
+- Server Invite Link
 - Channel ID (for command processing)
 - Message interactions related to bot commands
 
